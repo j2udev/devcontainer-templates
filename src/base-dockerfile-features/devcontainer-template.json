@@ -8,8 +8,7 @@
     "options": {
         "devcontainer_name": {
             "type": "string",
-            "description": "The name of your Dev Container",
-            "default": "Base with Dockerfile and Features"
+            "description": "The name of your Dev Container"
         },
         "ubuntu_version": {
             "type": "string",
