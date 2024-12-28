@@ -1,0 +1,15 @@
+{
+    "name": "Templates",
+    "image": "mcr.microsoft.com/devcontainers/base:noble",
+    "features": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+        "ghcr.io/devcontainers/features/node:1": {},
+        "ghcr.io/j2udev/devcontainer-features/oh-my-posh:0": {},
+        "ghcr.io/j2udev/devcontainer-features/eza:0": {},
+        "ghcr.io/j2udev/devcontainer-features/bat:0": {},
+        "ghcr.io/j2udev/devcontainer-features/fzf:0": {},
+        "ghcr.io/j2udev/devcontainer-features/lazygit:0": {},
+        "ghcr.io/j2udev/devcontainer-features/lazyvim:0": {}
+    },
+    "updateContentCommand": "npm install -g @devcontainers/cli"
+}
