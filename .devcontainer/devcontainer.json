@@ -1,6 +1,11 @@
 {
     "name": "Templates",
     "image": "mcr.microsoft.com/devcontainers/base:noble",
+    "customizations": {
+        "vscode": {
+            "extensions": ["esbenp.prettier-vscode"]
+        }
+    },
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {},
         "ghcr.io/devcontainers/features/node:1": {},
