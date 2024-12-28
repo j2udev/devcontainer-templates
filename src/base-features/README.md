@@ -1,13 +1,13 @@
 
-# Base/Dockerfile/Features (base-dockerfile-features)
+# Base/Features (base-features)
 
-A base template that creates a Dockerfile and uses features
+A base template that uses features
 
 ## Options
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| devcontainer_name | The name of your Dev Container | string | Base with Dockerfile and Features |
+| devcontainer_name | The name of your Dev Container | string | Base with Features |
 | ubuntu_version | Ubuntu version | string | noble |
 | oh_my_posh_theme | oh-my-posh theme | string | j2udev |
 | eza_theme | eza theme | string | tokyonight |
