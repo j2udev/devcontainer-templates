@@ -1,5 +1,5 @@
 {
-    "name": "Base/Dockerfile/Features",
+    "name": "${templateOption:devcontainer_name}",
     "build": {
         "dockerfile": "Dockerfile"
     },
