@@ -1,6 +1,6 @@
 {
     "id": "base-dockerfile-features",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "name": "Base/Dockerfile/Features",
     "description": "A base template that creates a Dockerfile and uses features",
     "documentationURL": "https://github.com/j2udev/devcontainer-templates/tree/main/src/base-dockerfile-features",
@@ -8,7 +8,8 @@
     "options": {
         "devcontainer_name": {
             "type": "string",
-            "description": "The name of your Dev Container"
+            "description": "The name of your Dev Container",
+            "default": "Base with Dockerfile and Features"
         },
         "ubuntu_version": {
             "type": "string",
