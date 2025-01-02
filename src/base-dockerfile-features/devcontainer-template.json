@@ -1,6 +1,6 @@
 {
     "id": "base-dockerfile-features",
-    "version": "0.1.3",
+    "version": "0.2.0",
     "name": "Base/Dockerfile/Features",
     "description": "A base template that creates a Dockerfile and uses features",
     "documentationURL": "https://github.com/j2udev/devcontainer-templates/tree/main/src/base-dockerfile-features",

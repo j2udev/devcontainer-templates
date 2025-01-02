@@ -1,6 +1,6 @@
 {
     "id": "base-features",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "name": "Base/Features",
     "description": "A base template that uses features",
     "documentationURL": "https://github.com/j2udev/devcontainer-templates/tree/main/src/base-features",
