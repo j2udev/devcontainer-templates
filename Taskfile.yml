@@ -1,0 +1,4 @@
+version: '3'
+
+tasks:
+  docs: cd src && devcontainer templates generate-docs
