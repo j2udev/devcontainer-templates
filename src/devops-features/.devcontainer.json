@@ -27,6 +27,7 @@
         "ghcr.io/j2udev/devcontainer-features/zarf:0": {},
         "ghcr.io/j2udev/devcontainer-features/k9s:0": {},
         "ghcr.io/j2udev/devcontainer-features/kubectl:0": {},
-        "ghcr.io/j2udev/devcontainer-features/helm:0": {}
+        "ghcr.io/j2udev/devcontainer-features/helm:0": {},
+        "ghcr.io/j2udev/devcontainer-features/packer:0": {}
     }
 }
