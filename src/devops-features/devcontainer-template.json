@@ -1,6 +1,6 @@
 {
     "id": "devops-features",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "name": "DevOps/Features",
     "description": "A devops template that uses features",
     "documentationURL": "https://github.com/j2udev/devcontainer-templates/tree/main/src/devops-features",
